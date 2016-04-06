@@ -1,0 +1,14 @@
+{
+  "pbtoken"    : "placeyourpbtokenhere",
+  "dstmail"    : "yourmail@yourdomain.com",
+  "dospeedtest": true,
+  "smtp"       : {
+    "host"  : "yourhost",
+    "port"  : 465,
+    "secure": true,
+    "auth"  : {
+      "user": "youruser",
+      "pass": "yourpass"
+    }
+  }
+}

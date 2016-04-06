@@ -1,0 +1,22 @@
+{
+  "name": "paulosimao.hia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/paulosimao.hia"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.12.0",
+    "moment-timezone": "^0.5.2",
+    "nodemailer": "^2.3.0",
+    "redis": "^2.5.3",
+    "speedtest-net": "^1.2.5"
+  }
+}
